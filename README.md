@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshJ2k22
-- 👀 I’m interested in Arduino/Raspberry Pi/programming.
+- 👀 I’m interested in Arduino/Raspberry Pi/programming/3D printing/CAD.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: email, joshuajohn2333@gmail.com
